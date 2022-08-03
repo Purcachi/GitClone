@@ -7,5 +7,11 @@ public class DemoTest {
 		//batch 7
 		System.out.println("test 123 clone...");
 	}
-
+	// random code...
+	
+	public void subtract(int a, int b) {
+		
+		System.out.println(a-b);
+		
+	}
 }
